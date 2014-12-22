@@ -1,36 +1,41 @@
-body{
+body {
 	background-image: url("https://dl.dropboxusercontent.com/u/72343666/GA/Unit_3/stripes.png"), url("https://dl.dropboxusercontent.com/u/72343666/GA/Unit_3/background.jpg");
 	background-repeat: repeat-x, no-repeat;
 	background-size: 550px, cover;
-	font-family: Helvetica;
-	font-weight: lighter;
+	font-family: 'helvetica', 'sans-serif';
+	font-weight: ;
 	color: white;
 }
 
-hr{
+hr {
 	position: absolute;
-	top: 53%;
-	left: 8%;
+	/*top: 53%;
+	left: 8%;*/
 	width: 50px;
-	height: 3px;
 	display: block; height: 2px;
     border: 0; border-top: 2px solid #fd6e6e;
 }
 
-p{
-	position: absolute;
+p {
+/*	position: absolute;
 	top: 57%;
-	left: 8%;
+	left: 8%;*/
 }
 
 #logo {
-	position: absolute;
+/*	position: absolute;
 	top: 40%;
-	left: 8%;
+	left: 8%;*/
 }
 
 #button {
-	position: absolute;
+/*	position: absolute;
 	top: 67%;
-	left: 8%;
+	left: 8%;*/
+}
+
+main {
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 10%;
 }
